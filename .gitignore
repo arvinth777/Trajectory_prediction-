@@ -1,0 +1,8 @@
+venv/
+venv_vis/
+__pycache__/
+*.pkl
+v1.0-mini/
+maps/
+*.zip
+.DS_Store
